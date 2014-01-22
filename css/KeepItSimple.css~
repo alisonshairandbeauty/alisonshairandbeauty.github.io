@@ -227,7 +227,7 @@ input.button {
 	width: 400px;
 	
 	/* change the values of top and left to adjust the position */
-	top: 175px; left: 110px;		
+	top: 175px; left: 0px;		
 }
 #header #header-image {
 	position: absolute;
