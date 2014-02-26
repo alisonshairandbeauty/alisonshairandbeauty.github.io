@@ -237,6 +237,24 @@ input.button {
 	right: 10px; top: 0;	
 }
 
+#header #header-image-small {
+	position: absolute;
+	background: url(../images/new.logo.small.png) no-repeat;
+	width: 371px;
+	height: 263px;	
+	right: 10px; 
+	top: 100px;	
+}
+
+#header #header-image-green {
+	position: absolute;
+	background: url(../images/new.logo.green.png) no-repeat;
+	width: 371px;
+	height: 263px;	
+	right: 10px; 
+	top: 0;	
+}
+
 /*  navigation  */
 #header #nav {
 	position: absolute;

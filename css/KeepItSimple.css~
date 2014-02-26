@@ -185,7 +185,7 @@ input.button {
 }
 #content-wrapper {
 	margin: 0 auto;	
-	background: #fff url(../images/content-bg.gif) repeat-y center top;	
+	/*background: #fff url(../images/content-bg.gif) repeat-y center top;*/
 	padding-bottom: 35px;
 	padding-top: 5px;		
 	overflow: auto;
@@ -235,6 +235,24 @@ input.button {
 	width: 371px;
 	height: 263px;	
 	right: 10px; top: 0;	
+}
+
+#header #header-image-small {
+	position: absolute;
+	background: url(../images/new.logo.small.png) no-repeat;
+	width: 371px;
+	height: 263px;	
+	right: 10px; 
+	top: 100px;	
+}
+
+#header #header-image-green {
+	position: absolute;
+	background: url(../images/new.logo.green) no-repeat;
+	width: 371px;
+	height: 263px;	
+	right: 10px; 
+	top: 0;	
 }
 
 /*  navigation  */
