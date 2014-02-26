@@ -248,7 +248,7 @@ input.button {
 
 #header #header-image-green {
 	position: absolute;
-	background: url(../images/new.logo.green) no-repeat;
+	background: url(../images/new.logo.green.png) no-repeat;
 	width: 371px;
 	height: 263px;	
 	right: 10px; 
